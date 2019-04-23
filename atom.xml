@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-23T09:05:01.197Z</updated>
+  <updated>2019-04-23T09:07:37.543Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/04/23/SpringBoot%E4%B9%8BScheduled/"/>
     <id>http://yoursite.com/2019/04/23/SpringBoot之Scheduled/</id>
     <published>2019-04-23T00:59:10.000Z</published>
-    <updated>2019-04-23T09:05:01.197Z</updated>
+    <updated>2019-04-23T09:07:37.543Z</updated>
     
     <summary type="html">
     
@@ -38,9 +38,7 @@
       <category term="spring" scheme="http://yoursite.com/categories/spring/"/>
     
     
-      <category term="spring" scheme="http://yoursite.com/tags/spring/"/>
-    
-      <category term="jetty" scheme="http://yoursite.com/tags/jetty/"/>
+      <category term="springboot" scheme="http://yoursite.com/tags/springboot/"/>
     
   </entry>
   

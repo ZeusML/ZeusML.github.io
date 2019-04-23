@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-18T02:15:49.136Z</updated>
+  <updated>2019-04-23T09:05:01.197Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>spring集成jetty</title>
+    <link href="http://yoursite.com/2019/04/23/SpringBoot%E4%B9%8BScheduled/"/>
+    <id>http://yoursite.com/2019/04/23/SpringBoot之Scheduled/</id>
+    <published>2019-04-23T00:59:10.000Z</published>
+    <updated>2019-04-23T09:05:01.197Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Demo&quot;&gt;&lt;a href=&quot;#Demo&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="spring" scheme="http://yoursite.com/categories/spring/"/>
+    
+    
+      <category term="spring" scheme="http://yoursite.com/tags/spring/"/>
+    
+      <category term="jetty" scheme="http://yoursite.com/tags/jetty/"/>
+    
+  </entry>
   
   <entry>
     <title>IDEA奇淫绝技</title>
@@ -515,34 +543,6 @@
       <category term="spring" scheme="http://yoursite.com/tags/spring/"/>
     
       <category term="事务" scheme="http://yoursite.com/tags/%E4%BA%8B%E5%8A%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CGLIB用法介绍</title>
-    <link href="http://yoursite.com/2018/10/30/CGLIB%E7%94%A8%E6%B3%95%E4%BB%8B%E7%BB%8D/"/>
-    <id>http://yoursite.com/2018/10/30/CGLIB用法介绍/</id>
-    <published>2018-10-30T07:33:23.000Z</published>
-    <updated>2019-04-16T09:51:35.441Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;CGLIB简介&quot;&gt;&lt;a href=&quot;#CGLIB简介&quot; class=&quot;headerlink&quot; title=&quot;CGLIB简介&quot;&gt;&lt;/a&gt;CGLIB简介&lt;/h2&gt;&lt;p&gt;CGLib（Code Generation
-        
-      
-    
-    </summary>
-    
-      <category term="java" scheme="http://yoursite.com/categories/java/"/>
-    
-    
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
-    
-      <category term="cglib" scheme="http://yoursite.com/tags/cglib/"/>
     
   </entry>
   
